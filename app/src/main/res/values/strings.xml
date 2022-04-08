@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Orbit</string>
+
+    <!-- activity_onBoarding -->
+    <string name="txt_create_new_account">Create new account</string>
+    <string name="txt_log_back_in">Log back in</string>
+    <string name="txt_terms_and_services">By Signing Up you are agree to our TaS and privacy policy</string>
+
+    <string name="txt_or">OR</string>
+    <string name="illustration">illustration</string>
+
+    <!-- activity_login -->
+    <string name="login_txt_login">Login</string>
+    <string name="login_please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="login_enter_email">Email</string>
+    <string name="login_enter_password">Password</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_forget_password">Forget password?</string>
+    <string name="login_dont_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_please_fill_the_input_below_here">Please fill the input below here</string>
+    <string name="txt_login_with_google">Login with Google</string>
+
+    <!-- activity_signUp -->
+    <string name="sign_txt_sign_up">Sign up</string>
+    <string name="sign_logo_create_account">Create Account</string>
+    <string name="sign_full_name">Full Name</string>
+    <string name="sign_username">Username</string>
+    <string name="sign_phone">Phone</string>
+    <string name="sign_enter_email">Email</string>
+    <string name="sign_enter_password">Password</string>
+    <string name="sign_enter_confirm_password">Confirm password</string>
+    <string name="sign_remember_me">Remember me</string>
+    <string name="sign_already_have_an_account">Already have an account ?</string>
+    <string name="sign_select">select</string>
+
+    <!-- activity_reset_password -->
+    <string name="reset_trouble_txt">Trouble Logging In?</string>
+    <string name="reset_link_txt">Enter your email and we\'ll send you a link to get back into your account.</string>
+
+</resources>

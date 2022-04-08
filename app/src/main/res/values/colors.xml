@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainTextColor">#000000</color>
+    <color name="mainBackgroundColor">#FFFFFF</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFFC00</color>
+
+    <color name="darkGray">#80000000</color>
+    <color name="lightGray">#66000000</color>
+    <color name="extraLightGrey">#33000000</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="onBoardingBtnTextColor">#FFFFFF</color>
+    <color name="onBoardingBtnBgColor">#000000</color>
+
+    <color name="dialogResetBg">#121212</color>
+    <color name="dialogResetTxt">#FFFFFF</color>
+    <color name="dialogResetTxtLight">#97FFFFFF</color>
+    <color name="dialogResetButton">#FFFC00</color>
+
+</resources>
